@@ -1,0 +1,28 @@
+/* line 42, ../scss/parts/_grid.scss */
+body {
+  width: 100%;
+  *zoom: 1;
+}
+/* line 28, ../scss/parts/_grid.scss */
+body:before, body:after {
+  content: "";
+  display: table;
+}
+/* line 32, ../scss/parts/_grid.scss */
+body:after {
+  clear: both;
+}
+
+/* line 47, ../scss/parts/_grid.scss */
+.clearfix {
+  *zoom: 1;
+}
+/* line 28, ../scss/parts/_grid.scss */
+.clearfix:before, .clearfix:after {
+  content: "";
+  display: table;
+}
+/* line 32, ../scss/parts/_grid.scss */
+.clearfix:after {
+  clear: both;
+}
