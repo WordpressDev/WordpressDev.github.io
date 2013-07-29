@@ -27,7 +27,7 @@ local.properties
 
 # PDT-specific
 .buildpath
- scss/
+ scss/*.scss
 
 #################
 ## Visual Studio
